@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning web design and development
 - 💞️ I’m looking to collaborate on new Entrepreneur.
 - 📫 How to reach me ??
-FB: https://www.facebook.com/ragib.yeaser.3/
+
+FB: https://www.facebook.com/ragibyeaser.mondol
+
 E-MAIL: ragibyeaser181@gmail.com
 PHONE: +880 1716337123
 
