@@ -1,42 +1,27 @@
-# 👋 Hi, I'm Ragib Yeaser.
+# Md. Ragib Yeaser
 
-I am an enthusiastic **Software Engineer in Test professional** with a strong foundation in **manual testing, API testing, and performance testing**. I am passionate about ensuring software quality through detailed testing, analytical thinking, and continuous learning.
+**Software Quality Assurance Engineer | Manual & Automation Testing**
 
----
-
-## 🧪 About Me
-- Strong understanding of **Manual Testing concepts** (functional, smoke, regression)
-- Hands-on experience with **API Testing using Postman**
-- Basic knowledge of **Performance Testing using JMeter**
-- Currently learning **Automation Testing (Selenium)**
-- Detail-oriented with strong **analytical and problem-solving skills**
-- Interested in building reliable, high-quality software products
+![Email](https://img.shields.io/badge/📧%20Email-ragibyeaser181%40gmail.com-red?style=flat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ragibyeaser/)
 
 ---
 
-## 🛠 Skills & Tools
-- Manual Testing  
-- API Testing (Postman)  
-- Performance Testing (JMeter)  
-- Automation Testing (Selenium – in progress)  
-- Test Case Design & Execution  
-- Defect / Bug Tracking (Jira / Trello)  
-- SDLC / STLC Understanding  
-- SQL Basics  
-- Test Documentation & Reporting  
+## About Me
+
+**SQA Engineer** focused on reliable, maintainable, and testable software.
+
+- Manual Testing (Test Cases, Bug Reports, Test Plans)
+- UI Automation (Selenium WebDriver)
+- Agile QA workflows (Jira, Git, MySQL)
+
+Background in Computer Science & Engineering (United Internationa University, Dhaka), bringing strong analytical thinking to quality assurance.
 
 ---
 
-## 📚 Training
-- Completed: Manual Testing, API Testing, JMeter  
-- Currently Learning: Automation Testing  
+## Projects
 
----
+🧑‍💼 **OrangeHRM – HR Management System Testing**
 
-## 🤝 Let's Connect
-- LinkedIn: www.linkedin.com/in/ragibyeaser 
-- Email: ragibyeaser181@gmail.com
-- PHONE: +880 1716337123
----
-
-⭐ Always eager to learn, improve, and grow as an SQA Engineer.
+- Created 21 manual test cases across Login, PIM, Leave, and Admin modules
+- Uncovered 4 critical defects (e.g., session timeout failure, leave module breakdown, PIM input validation gaps)
+- 📄 [Test Documentation](https://docs.google.com/spreadsheets/d/1PoYUQz-SvdP5TeI7lTPnFp31k4HRKJjbpN79bKhjcHM)
